@@ -1,0 +1,2 @@
+Cryptography (cryptography) is derived from the Greek, is composed of two syllables are crypto and Graphia. Crypto means to hide, while the meaning Graphia writing. Cryptography is the study of mathematical techniques related to aspects of information security, such as data confidentiality, data authenticity, data integrity, and authentication data.
+Cryptography can also be interpreted as a science or art to maintain the security of the message.
